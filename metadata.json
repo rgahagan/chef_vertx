@@ -1,0 +1,38 @@
+{
+  "name": "vertx",
+  "description": "Vertx setup",
+  "long_description": "",
+  "maintainer": "Bloom Health Co.",
+  "maintainer_email": "rgahagan@bloomhealthco.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "fedora": ">= 0.0.0",
+    "redhat": ">= 0.0.0",
+    "centos": ">= 0.0.0",
+    "ubuntu": ">= 0.0.0",
+    "debian": ">= 0.0.0",
+    "amazon": ">= 0.0.0"
+  },
+  "dependencies": {
+    "ark": ">= 0.0.0"
+    "java": ">= 1.7.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "vertx": "Installs Vert.x"
+  },
+  "version": "1.0.0"
+}
