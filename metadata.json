@@ -14,7 +14,7 @@
     "amazon": ">= 0.0.0"
   },
   "dependencies": {
-    "ark": ">= 0.0.0"
+    "ark": ">= 0.0.0",
     "java": ">= 1.7.0"
   },
   "recommendations": {
