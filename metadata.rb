@@ -1,10 +1,12 @@
 name             "vertx"
 maintainer       "Ryley Gahagan"
 maintainer_email "rgahagan@bloomhealthco.com"
+maintainer       "Antons Kranga"
+maintainer_email "akranga@gmail.com"
 license          "Apache 2.0"
 description      "Installs/Configures vertx"
 long_description "Installs/Configures vertx"
-version          "0.0.1"
+version          "0.0.2"
 
 depends "ark"
 depends "java"
